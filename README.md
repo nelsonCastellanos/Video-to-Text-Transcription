@@ -21,7 +21,9 @@ Este proyecto proporciona una herramienta para extraer audio de archivos de vide
 ### Clonar el Repositorio
 Primero, clona este repositorio a tu máquina local usando:
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git remote add origin git@github.com-ncastellanos:nelsonCastellanos/Video-to-Text-Transcription.git
+git clone  git@github.com-ncastellanos:nelsonCastellanos/Video-to-Text-Transcription.git
+
 cd tu-repositorio
 ```
 
